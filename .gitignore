@@ -4,3 +4,4 @@ data/
 *.bz2
 *.conllu
 __pycache__/
+.ipynb_checkpoints/
